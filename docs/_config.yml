@@ -1,0 +1,16 @@
+# Site settings
+title: Mirage Welcome Screen Ver. 2
+description: Mirage Welcome Screen
+baseurl: "/Mirage-Welcome-Screen-Ver.-2" # Project repository name
+url: "https://KMcCann519.github.io" # Your GitHub Pages URL
+
+# Build settings
+theme: jekyll-theme-primer # or your preferred theme
+markdown: kramdown
+
+# Exclude files from the build
+exclude:
+  - .gitignore
+  - README.md
+  - node_modules
+  - vendor
